@@ -90,6 +90,7 @@ nav li a {
   border-radius: 10px;
   padding: 130px 150px;
   text-align: center;
+  margin-top: 100px;
 
 }
 main{
@@ -112,6 +113,8 @@ main{
   padding: 33px;
   box-shadow: 0px 6px 50px 0px black;
   border-radius: 5px;
+  margin-top: 100px;
+
 }
 .skills-container
 {
@@ -121,7 +124,9 @@ main{
 /* .skill-descriptin{
   padding: ;
 } */
-
+/* .resume{
+  margin-top: 100px;
+} */
 .resume-container{
   display: flex;
   gap: 24px;
@@ -147,7 +152,7 @@ footer{
   width: 50%;
 
 }
-footer input[type="text"],footer input[type="email"],footer textarea
+footer input[type="text"],footer input[type="email"],footer textareaa
 {
   height: 64px;
   border-radius: 5px;
